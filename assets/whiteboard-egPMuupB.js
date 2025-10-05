@@ -1,0 +1,1 @@
+import{f as o,o as s,g as t,j as a}from"./modules/vue-tnmJAxRz.js";import{u as r}from"./slidev/context-CNJwRDZI.js";const c={class:"slidev-layout whiteboard"},_={class:"my-auto"},m={__name:"whiteboard",setup(d){return r(),(e,i)=>(s(),o("div",c,[t("div",_,[a(e.$slots,"default")])]))}};export{m as _};
