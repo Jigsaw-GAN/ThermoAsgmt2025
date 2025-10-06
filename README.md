@@ -1,1 +1,1 @@
-https://jigsaw-gan.github.io/ThermoAsgmt2025
+This repository collects all homework assignments and detailed solutions for the 2025 Chemical Engineering Thermodynamics course taught by Professor Lu Diannan at Tsinghua University. The original problems and reference materials are sourced from the public course site: https://jigsaw-gan.github.io/ThermoAsgmt2025
